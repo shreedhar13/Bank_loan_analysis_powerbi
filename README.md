@@ -1,7 +1,7 @@
 
 # Financial Loan Analysis - Dashboard
 
-### Dashboard Link :
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiOWI3YjM1YjYtYzdjMi00ZDlkLWE0ZTgtNDk3ZDkzNTgzYTQwIiwidCI6ImZjZmQ5ODBjLWUwN2QtNDM1Ni1hMjM3LWUwYjk3Njc2NjBjNiJ9
 
 ## Problem Statement
 
